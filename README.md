@@ -1,4 +1,3 @@
-# KimberleySchubert
 Hi 👋 My name is Kimberley Schubert
 ===================================
 
