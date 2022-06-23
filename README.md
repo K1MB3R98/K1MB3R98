@@ -1,4 +1,4 @@
-Hi 👋 My name is Kimberley Schubert
+Hi 👋 My name is Kimberley
 ===================================
 
 Front-End Developer
