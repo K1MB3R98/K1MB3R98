@@ -1,7 +1,7 @@
 Hi 👋 My name is Kimberley Schubert
 ===================================
 
-Front-End Web Developer
+Front-End Developer
 -----------------------
 
 I am a highly curious, analytical, and imaginative front-end developer with a background in Education, English, and Music. I enjoy combining my creativity, research, and problem-solving skills with my experience to build accessible and responsive applications using HTML5, CSS3, JavaScript, React, Firebase, and API integrations. In my spare time, I can be found gaming, reading, or bagpiping.
