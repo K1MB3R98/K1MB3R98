@@ -9,7 +9,7 @@ I am a highly curious, analytical, and imaginative front-end developer with a ba
 * 🌍  I'm based in Ontario, Canada.
 * 🖥️  See my portfolio at [Kimberley Codes](http://https://www.kimberleycodes.com/)
 * ✉️  You can contact me at [kimberleycodes@gmail.com](mailto:kimberleycodes@gmail.com)
-* 🧠  I'm learning a bit of Typescript.
+* 🧠  I'm learning the bagpipes and trying out some Typescript.
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I like evil cookies 🍪 and pineapple on pizza! 🍍
 
